@@ -50,7 +50,10 @@ O primeiro grupo consiste em 6 colaboradores que estão localizados nos seguinte
 
 4. Retornos visuais
    1. Imagem flat simples mostrando apenas o tempo total e a ordem dos pontos
-   2. Imagem em uma esfera afim de tentar chegar mais próximo do “real” já que nao temos os pontos traçados de maneira inteligente por ruas e avenidas
+
+![Rota otimizada simples](optmized_route.png)
+
+2.  Imagem em uma esfera afim de tentar chegar mais próximo do “real” já que nao temos os pontos traçados de maneira inteligente por ruas e avenidas
 
 # Limitacoes:
 
